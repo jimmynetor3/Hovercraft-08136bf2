@@ -1,0 +1,21 @@
+td {
+	border: solid black;
+	padding-left: 40px;
+	padding-right: 40px;
+	
+}
+
+body {
+     background-color: ;  
+}
+td.grey{
+	background-color: grey;
+}
+td.powderblue
+{
+	background-color: powderblue;
+}
+a:hover{
+	background-color: yellow;
+	cursor: progress;
+}

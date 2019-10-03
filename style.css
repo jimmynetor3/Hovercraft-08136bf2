@@ -2,10 +2,11 @@ td {
 	border: solid black;
 	padding-left: 40px;
 	padding-right: 40px;
-	
+	padding-bottom: 10px;
 }
 
 body {
+     font-size: 2.4em;
      background-color: ;  
 }
 td.grey{
@@ -17,5 +18,13 @@ td.powderblue
 }
 a:hover{
 	background-color: yellow;
-	cursor: progress;
+	cursor: pointer;
+}
+th.powderblue
+{
+	background-color: powderblue;
+	border: solid black;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 10px;
 }
